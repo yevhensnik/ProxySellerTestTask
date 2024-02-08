@@ -8,7 +8,6 @@ import com.example.proxysellertesttask.entity.token.Token;
 import com.example.proxysellertesttask.entity.token.TokenType;
 import com.example.proxysellertesttask.entity.user.Role;
 import com.example.proxysellertesttask.entity.user.User;
-import com.example.proxysellertesttask.exception.ResourceNotFoundException;
 import com.example.proxysellertesttask.exception.UserExistsException;
 import com.example.proxysellertesttask.repository.TokenRepository;
 import com.example.proxysellertesttask.repository.UserRepository;

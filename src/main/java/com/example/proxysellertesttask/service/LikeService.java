@@ -2,7 +2,6 @@ package com.example.proxysellertesttask.service;
 
 import com.example.proxysellertesttask.entity.posts.Like;
 import com.example.proxysellertesttask.entity.posts.Post;
-import com.example.proxysellertesttask.entity.user.User;
 import com.example.proxysellertesttask.exception.LikeNotFoundException;
 import com.example.proxysellertesttask.repository.LikeRepository;
 import com.example.proxysellertesttask.repository.PostRepository;

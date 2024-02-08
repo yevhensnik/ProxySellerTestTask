@@ -1,6 +1,5 @@
 package com.example.proxysellertesttask.entity.posts;
 
-import com.example.proxysellertesttask.entity.user.User;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;

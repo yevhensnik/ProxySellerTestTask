@@ -4,7 +4,6 @@ import com.example.proxysellertesttask.dto.UserDto;
 import com.example.proxysellertesttask.repository.UserRepository;
 import com.example.proxysellertesttask.entity.user.User;
 import com.example.proxysellertesttask.exception.ResourceNotFoundException;
-import jakarta.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.security.core.Authentication;

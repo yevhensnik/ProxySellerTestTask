@@ -6,7 +6,6 @@ import com.example.proxysellertesttask.repository.CommentRepository;
 import com.example.proxysellertesttask.repository.PostRepository;
 import jakarta.persistence.EntityNotFoundException;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.security.core.userdetails.UsernameNotFoundException;
 import org.springframework.stereotype.Service;
 
 import java.time.LocalDateTime;

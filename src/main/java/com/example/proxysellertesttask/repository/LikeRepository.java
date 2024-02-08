@@ -1,8 +1,6 @@
 package com.example.proxysellertesttask.repository;
 
 import com.example.proxysellertesttask.entity.posts.Like;
-import com.example.proxysellertesttask.entity.posts.Post;
-import com.example.proxysellertesttask.entity.user.User;
 import org.springframework.data.mongodb.repository.MongoRepository;
 import org.springframework.stereotype.Repository;
 
